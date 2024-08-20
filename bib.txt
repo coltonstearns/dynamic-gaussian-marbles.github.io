@@ -1,6 +1,6 @@
-@inproceedings{harley2022particle,
-  author    = {Adam W. Harley and Zhaoyuan Fang and Katerina Fragkiadaki}, 
-  title     = {Particle Video Revisited: {T}racking Through Occlusions Using Point Trajectories},
-  booktitle = {ECCV},
-  year      = {2022}
+@inproceedings{stearns2024dgmarbles,
+  author    = {Colton Stearns and Adam W. Harley and Mikaela Uy and Florian Dubost and Federico Tombari and Gordon Wetzstein and Leonidas Guibas},
+  title     = {Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos},
+  booktitle = {ArXiv},
+  year      = {2024}
 }
